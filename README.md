@@ -13,7 +13,9 @@ HTML and CSS written semantically;
 
 Adoption of CSS variables;
 
-Using reset.css.
+Using reset.css;
+
+CSS Componentization.
 
 
 
